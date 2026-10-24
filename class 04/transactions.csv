@@ -1,0 +1,7 @@
+﻿transaction_id,order_date,customer_tier,product_category,item_units,unit_price,order_total
+TXN-1001,01/10/26,Gold,Electronics,2,299.99,599.98
+TXN-1002,01/10/26,Silver,Apparel,1,45.00,45.00
+TXN-1003,02/10/26,Bronze,Home,5,12.50,62.50
+TXN-1004,02/10/26,Gold,Electronics,1,499.99,499.99
+TXN-1005,03/10/26,Bronze,Apparel,12,15.00,180.00
+TXN-1006,03/10/26,Silver,Electronics,3,199.99,599.97
