@@ -1,0 +1,8 @@
+﻿return_id,return_date,product_category,refund_amount,return_reason
+RET-101,01/09/26,Electronics,150.00,Defective
+RET-102,02/09/26,Apparel,45.00,Wrong Size
+RET-102,02/09/26,Apparel,45.00,Wrong Size
+RET-103,03/09/26, HOME ,,Unsatisfactory
+RET-104,04/09/26,electronics,210.00,Defective
+RET-105,05/09/26,Apparel,,Wrong Size
+RET-106,05/09/26,Home,85.00,Defective
