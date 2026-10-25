@@ -1,0 +1,11 @@
+﻿order_id,product_category,customer_tier,units_sold,revenue,profit_margin
+ORD-601,Electronics,Gold,2,1200,0.25
+ORD-602,Apparel,Silver,5,250,0.45
+ORD-603,Home,Bronze,1,80,0.1
+ORD-604,Electronics,Gold,3,1800,0.3
+ORD-605,Apparel,Silver,4,200,0.4
+ORD-606,Home,Gold,2,160,0.15
+ORD-607,Electronics,Bronze,1,600,0.28
+ORD-608,Home,Silver,6,480,0.12
+ORD-609,Apparel,Bronze,3,150,0.5
+ORD-610,Electronics,Gold,2,1200,0.25
