@@ -1,0 +1,9 @@
+﻿order_id,store_id,order_date,category,revenue,units
+ORD-801,STR-10,05/07/26, Electronics ,1500.00,3
+ORD-802,STR-20,12/07/26,Apparel,220.00,4
+ORD-802,STR-20,12/07/26,Apparel,220.00,4
+ORD-803,STR-10,01/08/26, ELECTRONICS ,,2
+ORD-804,STR-30,15/08/26,Home,310.00,5
+ORD-805,STR-20,02/09/26, Apparel ,180.00,3
+ORD-806,STR-30,10/09/26,Home,290.00,4
+ORD-807,STR-10,20/09/26,Electronics,1200.00,2
